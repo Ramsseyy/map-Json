@@ -1,0 +1,44 @@
+[
+    {
+        "name":"Grand Canyon",
+        "images":"Images/Grand_Canyon.jpg",
+        "address":"Arizona 86052",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51579.88097859341!2d-112.14750352089843!3d36.0997631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80cc0654bd27e08d%3A0xb1c2554442d42e8d!2sGrand%20Canyon!5e0!3m2!1sen!2sus!4v1647905112924!5m2!1sen!2sus"
+    },
+
+    {
+        "name":"Six Flags Magic Mountain",
+        "images":"Images/Six_Flags.jpg",
+        "address":"26101 Magic Mountain Pkwy, Valencia, CA 91355",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13164.224385443282!2d-118.60595240462452!3d34.42533018962257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c280a5bffa65c5%3A0x8f03c1443c734740!2sSix%20Flags%20Magic%20Mountain!5e0!3m2!1sen!2sus!4v1647905256425!5m2!1sen!2sus"
+    },
+
+    {
+        "name":"Disneyland Park",
+        "images":"Images/Disneyland_Park.jpg",
+        "address":"1313 Disneyland Dr, Anaheim, CA 92802",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13260.034346127826!2d-117.92770750485894!3d33.81209149226374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcd7d12b3b5e6b%3A0x2ef62f8418225cfa!2sDisneyland%20Park!5e0!3m2!1sen!2sus!4v1647905367402!5m2!1sen!2sus"
+    },
+
+    {
+        "name":"Universal Studios Hollywood",
+        "images":"Images/universal_studios.jpg",
+        "address":"100 Universal City Plaza, Universal City, CA 91608",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13209.285924059763!2d-118.36211160473475!3d34.13811649084196!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2be4f253238cf%3A0xd3dd5027799c9a71!2sUniversal%20Studios%20Hollywood!5e0!3m2!1sen!2sus!4v1647905423125!5m2!1sen!2sus"
+    },
+
+    {
+        "name":"Knott's Berry Farm",
+        "images":"Images/Knott'a_Berry_Farm.jfif",
+        "address":"8039 Beach Blvd, Buena Park, CA 90620",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13255.039375945778!2d-118.00895980484674!3d33.84430349212149!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dd295ff57f78a3%3A0xae8e394e901e3055!2sKnott&#39;s%20Berry%20Farm!5e0!3m2!1sen!2sus!4v1647905460943!5m2!1sen!2sus"
+    },
+
+    {
+        "name":"Walt Disney World® Resort",
+        "images":"Images/Walt_Disney_World.jpg",
+        "address":"Orlando, FL",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14041.573356878454!2d-81.57947330677145!3d28.37718542167551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88dd7ee634caa5f7%3A0xa71e391fd01cf1a0!2sWalt%20Disney%20World%C2%AE%20Resort!5e0!3m2!1sen!2sus!4v1647905500655!5m2!1sen!2sus"
+    }
+
+]
